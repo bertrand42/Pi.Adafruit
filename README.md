@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Adafruit's Raspberry-Pi Python Code Library
 ============
   Here is a growing collection of libraries and example python scripts
@@ -40,3 +41,9 @@ LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
 ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+=======
+Pi.Adafruit
+===========
+
+Pi.Adafruit
+>>>>>>> d1d3ffe908f5fff454e6458c6b355409373e2e39
